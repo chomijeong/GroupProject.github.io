@@ -4,7 +4,8 @@
 ## Project Structure
 
 - /GroupProject
-  - /main
+ - /src 
+   - /main
     - /java/com/GroupProject
       - /controller
         - HomeController.java
