@@ -52,10 +52,10 @@
             - ReviewWrite.jsp 
             - mywalkList.jsp      
           - /admin
-            - adminShopping/
-            - AdminGoodsList.jsp
-            - AdminGoodsWrite.jsp 
-            - AdminOrderList.jsp
+            - /adminShopping
+              - AdminGoodsList.jsp
+              - AdminGoodsWrite.jsp 
+              - AdminOrderList.jsp
             - AdminMemberList.jsp
             - ReportBoardList.jsp 
             - ReportRecommentList.jsp        
