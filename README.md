@@ -3,8 +3,6 @@
 
 ## Project Structure
 
-## Project Structure
-
 - /GroupProject
   - /main
     - /java/com/GroupProject
