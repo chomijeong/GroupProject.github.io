@@ -1,9 +1,13 @@
 # GroupProject
 오늘의 산책 프로젝트
 
-# Project Today																																				
-![image](https://github.com/user-attachments/assets/29254782-5591-4cfb-aa7b-0381530342a5)
+# Project Member & Role
 
+![image](https://github.com/user-attachments/assets/93f197b6-9b66-4719-a342-7bacdcc6cbc6)
+
+# Project Today																																				
+																											
+![image](https://github.com/user-attachments/assets/2dae4ba0-c7e4-4109-8085-95f2f1977ba7)
 
 ## Project Structure
 
