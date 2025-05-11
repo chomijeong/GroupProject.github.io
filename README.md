@@ -3,7 +3,7 @@
 
 ## Project Structure
 
-- /project-root
+- /GroupProject
   - /controller
     - HomeController.java
     - MemberController.java
